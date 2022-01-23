@@ -5,3 +5,9 @@ We were hired by V. Isualize to create a summary DataFrame of the ride-sharing d
 <img width="606" alt="Screen Shot 2022-01-23 at 4 49 46 PM" src="https://user-images.githubusercontent.com/95194554/150702214-6251c99b-4e61-4b5d-b66c-8e0285ff22ea.png">
 As we can see in the figure above, Urban cities have the most total rides, total drivers, and total fares. Urban cities also have the lowest average fare per ride, and the average fare per driver. Suburban comes in second in each category with Rural coming in third. 
 <img width="1020" alt="Screen Shot 2022-01-23 at 4 54 03 PM" src="https://user-images.githubusercontent.com/95194554/150702284-e6b94559-f50a-470c-a0dd-cccc6fd2f870.png">
+Above is an easier way to see the data is with the line graph above, we can see that Urban has the highest total fare with Suburban next, and rural last. 
+## Summary
+A few suggestions for the future regarding disparities are:
+  * Charge extra for Urban cities because they have the most rides and currently charge the cheapest.
+  * Charge less for rural cities and maybe there will be more people able to afford the rides.
+  * Change the location of assignment for some drivers from Urban to Suburban or Rural so that they have more drivers which will increase the amount of rides. 
